@@ -1,0 +1,50 @@
+.section
+{
+	
+}
+	.section-header
+	{
+		@extend %center_layout;
+		margin-top: 30px;
+		
+		@include mq( 0, 768px ) {
+			margin-top: 15px;	
+		}
+		
+		.section-title
+		{
+			
+			font-size: 150%;
+			line-height: 160%;
+			
+			@include mq( 0, 768px ) {
+				font-size: 130%;	
+			}
+			@include mq( 769px, 1024px ) {
+				font-size: 130%;	
+			}
+			
+			i
+			{
+				color: #777;
+			}
+		}
+		
+		&:target
+		{
+			.section-title i
+			{
+				color: $COLOR_RED;
+			}
+		}
+	}
+	.section-contents
+	{
+		@extend %center_layout;
+		margin-top: 10px;
+		margin-bottom: 30px;
+		
+		@include mq( 0, 768px ) {
+			margin-bottom: 15px;	
+		}
+	}

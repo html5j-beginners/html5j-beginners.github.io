@@ -1,0 +1,63 @@
+#globalFooter
+{
+	color: #eee;
+	
+	background: #333;
+	
+	.inner
+	{
+		@extend %center_layout;
+		padding: 0 0 20px 0;
+		
+		@include mq( 0, 768px ) {
+			padding: 0 0 20px 0;	
+		}
+	}
+}
+	#footerNav
+	{
+		padding-top: 20px;
+		
+		@include mq( 0, 768px ) {
+			padding-top: 10px;	
+		}
+	}
+		#footerNavList
+		{
+			
+			.nav-item
+			{
+				float: left;
+				margin-right: 2em;
+				
+				a
+				{
+					color: #ddd;
+					
+					i
+					{
+						color: #888;
+					}
+					
+					&:hover
+					{
+						color: $COLOR_KEY;
+					}
+				}
+			}
+		}
+	
+	#copyright
+	{
+		margin: 20px 0 0 0;
+		
+		text-align: right;
+		font-size: 130%;
+		line-height: 110%;
+		font-family: "MuseoSans-500";
+		
+		@include mq( 0, 768px ) {
+			
+			text-align: center;	
+		}
+	}
