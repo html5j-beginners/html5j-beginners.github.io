@@ -29,6 +29,7 @@
 			<ul id="globalNavList">
 				<li class="nav-item"><a href="#meeting" class="strong"><i class="icon-calendar"></i> 勉強会</a></li>
 				<li class="nav-item"><a href="#mailing_list"><i class="icon-comments"></i> メーリングリスト</a></li>
+				<li class="nav-item"><a href="http://html5j-begin.blogspot.jp/" target="_blank"><i class="icon-pencil"></i> ブログ</a></li>
 			</ul>
 		</nav>
 	</div>
@@ -36,7 +37,7 @@
 		<div class="inner clear">
 			<img id="mainVisualLogo" width="100%" src="images/logo.svg" />
 			<div id="mainVisualComment">
-				<h2 class="label">html5j ビギナー部とは？</h2>
+				<h2 class="label">html5j ビギナーズとは？</h2>
 				<p class="text">HTML5をこれから学びたいという方を対象にした勉強会を開催しています。</p>
 				<p class="button"><a href="#meeting">勉強会の予定を見る</a></p>
 			</div>
@@ -46,12 +47,25 @@
 </header>
 
 <section class="section">
+	<header id="mailing_list" class="section-header">
+		<h1 class="section-title"><i class="icon-calendar"></i> ブログ</h1>
+	</header>
+	<div class="section-contents">
+		<nav class="article-nav">
+			<ul id="blogFeed" class="article-link-list">
+			</ul>
+		</nav>
+	</div>
+</section>
+
+<section class="section">
 	<header id="meeting" class="section-header">
 		<h1 class="section-title"><i class="icon-comments"></i> 勉強会の予定</h1>
 	</header>
 	<div class="section-contents">
 		<nav class="article-nav">
 			<ul class="article-link-list">
+				<li class="link-item"><a href="http://html5j-begin.blogspot.jp/2013/10/html5.html" target="_blank"><span class="date">2013年10月13日開催</span> <span class="title">第3回HTML5ビギナーズ！</span></a></li>
 				<li class="link-item"><a href="http://blog.html5j.org/2013/07/html5j2.html" target="_blank"><span class="date">2013年7月24日開催</span> <span class="title">html5jビギナー部の第2回目の勉強会が開催されました</span></a></li>
 				<li class="link-item"><a href="http://blog.html5j.org/2013/06/html5j.html" target="_blank"><span class="date">2013年6月21日開催</span> <span class="title">html5jビギナー部の第1回目の勉強会が開催されました</span></a></li>
 			</ul>
@@ -85,6 +99,40 @@
 	</div>
 </footer>
 	
+<script src="//www.google.com/jsapi?key=AIzaSyCZ1F-Zo7_CbAZiaBw_j3UiLnSVpqpJ2Fc" type="text/javascript"></script>
+<script type="text/javascript">
+google.load("feeds", "1");
 
+function feedLoaded(result) {
+	if (!result.error) {
+		var container = document.getElementById("blogFeed");
+		container.innerHTML = '';
+
+		for (var i = 0; i < result.feed.entries.length; i++) {
+			var entry = result.feed.entries[i];
+			var date = new Date(entry.publishedDate);
+			var yy = date.getYear().toString();
+			yy = yy.substr(1);
+			var mm = date.getMonth() + 1;
+			
+			if (mm < 10) {mm = "0" + mm;}
+			var dd = date.getDate();
+			if (dd < 10) {dd = "0" + dd;}
+			var yymmdd = yy + "年" + mm + "月" + dd + "日";
+			
+			container.innerHTML += "<li class='link-item'><a href='" + entry.link + "' target='_blank'><span class='date'>" + yymmdd + "</span><span class='title'>" + entry.title + "</span></a></li>\n";
+		}
+	}
+}
+
+function OnLoad() {
+	var feed = new google.feeds.Feed("http://html5j-begin.blogspot.jp/feeds/posts/default");
+	
+	feed.load(feedLoaded);
+}
+
+google.setOnLoadCallback(OnLoad);
+</script>
 </body>
 </html>
+

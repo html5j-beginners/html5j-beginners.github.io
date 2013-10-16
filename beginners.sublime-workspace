@@ -1,0 +1,1081 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"cache",
+				"cache_time"
+			],
+			[
+				"tax",
+				"tax_metas/"
+			],
+			[
+				"de",
+				"decimal"
+			],
+			[
+				"wp_",
+				"wp_query"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"sear",
+				"searchTypeDesignInputs"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"single",
+				"single_category_classes"
+			],
+			[
+				"socia",
+				"social_ount"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"auto",
+				"_author_icon_list.scss"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"su",
+				"sub"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"popup",
+				"popupclose_button"
+			],
+			[
+				"clip",
+				"clip200_img"
+			],
+			[
+				"src",
+				"srcset_img"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"article",
+				"articleItemAccordions"
+			],
+			[
+				"accordion",
+				"accordionButton"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"mon",
+				"monthly_recent"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"op",
+				"optionNavOpener"
+			],
+			[
+				"facebook",
+				"facebook_app_id"
+			],
+			[
+				"remove",
+				"remove_dashboard_widgets.php"
+			],
+			[
+				"remo",
+				"remove_admin_bar.php"
+			],
+			[
+				"h",
+				"tmp_html"
+			],
+			[
+				"font-",
+				"font-awesome.scss"
+			],
+			[
+				"get",
+				"get_poststatus.php"
+			],
+			[
+				"return",
+				"return_author_article.php"
+			],
+			[
+				"shortcode",
+				"shortcode_atts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scss/modules/_global_footer.scss",
+			"settings":
+			{
+				"buffer_size": 712,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/_common.scss",
+			"settings":
+			{
+				"buffer_size": 1896,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/modules/_global_header.scss",
+			"settings":
+			{
+				"buffer_size": 3384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/modules/_section.scss",
+			"settings":
+			{
+				"buffer_size": 600,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/modules/_article_nav.scss",
+			"settings":
+			{
+				"buffer_size": 479,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3678,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 86,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Compass/Compass.sublime-build",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"Paca",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Projects/beginners.html5j.org/scss/plugins/font-awesome/_variables.scss",
+		"/Projects/beginners.html5j.org/scss/plugins/font-awesome/_core.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/etc/functions/times.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/old_post_alert.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/single.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/_table.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/social_buttons.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/header.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/loop/single_item_line.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/articles/_option_section_lists.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/articles/_article_navs.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_tabs.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/taxonomy/social_buttons.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/title_fix.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/taxonomy-referencecat.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/taxonomy-referencecat-ios-7.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/archive-references.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/set_custom_post_type_feed.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/taxonomies/references_cat.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/config.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/tax_metas/referencecat_term_image.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/cache/query_cache.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/config.rb",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/game_status/user_status_cache.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/tax_metas/referencecat_term_description.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/page_subject.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/date.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/game_status/post_status_cache.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/game_status/user_ranking_cache.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/tax_metas/tax_metas.js",
+		"/Projects/blog.classmethod.jp/themes/regeneration/category.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/archive.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/author.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/loop/single_item.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/loop/single_item_min.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/loop/single_author_card.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/authors.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/home_query_add_posttypes.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/aside_tag_recommend_article.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/game_status/core.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/header/facebook_ogp.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/post_types/references.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/inset_custom_post_type_feed_to_main_feed.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/pre_user_description.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/search.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/single-references.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/aside_referencecat_recommend_article.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/aside_author_recommend_article.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/plugins/posts_to_posts.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/aside_matome_category_list.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/aside_series_recommend_article.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/functions.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/tax_metas/term_image.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/_core.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_container.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/plugins/_flex_box.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_article_navs.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_single_article.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/plugins/_media_queries.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/_config.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/_common.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_popupbox.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_option_section_lists.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_footer.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_ads.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/plugins/_device.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/game_status/config.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/custom_manege_posts_column_items.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/_inline.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/js/common/jquery.plugins.js",
+		"/Projects/blog.classmethod.jp/themes/regeneration/js/common/common.js",
+		"/Projects/blog.classmethod.jp/themes/regeneration/alltime_ranking.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/tag.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/taxonomy-series.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/taxonomy.php",
+		"/Users/nonakaryuichi/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Projects/blog.classmethod.jp/themes/regeneration/archive-matome.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/archives.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/archive-writing.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/archive-slide.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/archive-news.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/archive-book.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/index.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/aside_references_category_list.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/aside_category_list.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/aside_news_category_list.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/taxonomy-reference.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/profiles/add_custom_profile_fields.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/editors_nav.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/header.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/options/add_custom_thumbnails.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/functions/add_custom_settings.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/options/admin_favicon.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/footer.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/header/twitter_card.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/header/global_header.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/popup/share_navs.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/popup/search_form.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/custom_admin.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/plugins/_syntax.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/_body.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_editors_navs.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/plugins/_advent_calendar.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_global_header.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_pagebar.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/taxonomies/matome_cat.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/taxonomies/class.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/plugins/taxonomies/difficulty.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_search_form.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/_heading.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/_paragraph.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/_inline_image.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/_list.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/editable/_block.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_archives.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/search_form.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/scss/modules/_contents_navs.scss",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/header/ads.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/footer/ads.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/aside_tag_recommend_books.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/setting/core/filters/register_taxonomys.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/aside_ads.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/header/meta.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/footer/script.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/popup/category_navs.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/popup/etc_navs.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/article/aside_tag_list.php",
+		"/Projects/blog.classmethod.jp/themes/regeneration/modules/footer/foot_ads.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"check",
+			"title",
+			"series",
+			"get_post_meta",
+			"user_status",
+			"タクソノミー名",
+			"タクソノミー名_edit_form_fields",
+			"request_tax",
+			");\n",
+			"\"-->\";\n",
+			"series",
+			"description",
+			"series",
+			"\">\n",
+			"articleNavsCategoryTypeNew",
+			"facebook",
+			"social",
+			"add_action('init',",
+			"add_referemces_cat_taxonomy",
+			"}",
+			"get_user_status_statistics",
+			"　",
+			"+ ",
+			"facebook",
+			"80",
+			"date",
+			"post-categories",
+			"post-category",
+			"More",
+			"Moreもっとみる",
+			"More",
+			"single_article_aside_menu_list",
+			"<",
+			"dl",
+			"ribbon",
+			"single_article_aside_container",
+			"\n<?",
+			"bloginfo",
+			"1e2323",
+			";\n",
+			";",
+			"true",
+			"references",
+			">';\n",
+			"og:image",
+			"}",
+			"style"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scss/modules/_global_footer.scss",
+					"settings":
+					{
+						"buffer_size": 712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 488.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scss/_common.scss",
+					"settings":
+					{
+						"buffer_size": 1896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1527,
+								1556
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1088.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scss/modules/_global_header.scss",
+					"settings":
+					{
+						"buffer_size": 3384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scss/modules/_section.scss",
+					"settings":
+					{
+						"buffer_size": 600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scss/modules/_article_nav.scss",
+					"settings":
+					{
+						"buffer_size": 479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3678,
+								3678
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 962.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
