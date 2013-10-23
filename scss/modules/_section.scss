@@ -1,10 +1,36 @@
+#container
+{
+	@extend %center_layout;
+}
+	#mainContents
+	{
+		float: left;
+		width: 65%;
+		
+		@include mq( 0, 768px ) {
+			float: none;
+			width: auto;	
+		}
+	}
+	
+	#subContents
+	{
+		float: right;
+		width: 33%;
+		
+		@include mq( 0, 768px ) {
+			float: none;
+			width: auto;	
+		}
+	}
+
+
 .section
 {
 	
 }
 	.section-header
 	{
-		@extend %center_layout;
 		margin-top: 30px;
 		
 		@include mq( 0, 768px ) {
@@ -40,11 +66,18 @@
 	}
 	.section-contents
 	{
-		@extend %center_layout;
 		margin-top: 10px;
 		margin-bottom: 30px;
 		
 		@include mq( 0, 768px ) {
 			margin-bottom: 15px;	
+		}
+		
+		.textContent
+		{
+			p
+			{
+				margin-top: 1.5em;
+			}
 		}
 	}

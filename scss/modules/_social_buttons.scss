@@ -1,0 +1,12 @@
+#socialButtons
+{
+	@extend %center_layout;
+	
+	text-align: center;
+	
+	.button-item
+	{
+		margin: 10px 10px 10px 0;
+		display: inline-block;
+	}
+}

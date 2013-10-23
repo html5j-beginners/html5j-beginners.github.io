@@ -1,4 +1,4 @@
-http_path = "http://nonakaryuichi.github.io/html5j-beginners-web/html/"
+http_path = "../"
 css_dir = "css"
 sass_dir = "scss"
 images_dir = "images"
